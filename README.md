@@ -7,6 +7,14 @@ pytorch 1.0.1
 # 运行代码：
 python seq2seq-by-myself.py
 
+# Belu Score
+P1:0.8408
+P2:0.7138
+P3:0.6302
+P4:0.5625
+BP:1
+BERT:0.6792
+
 # 本文项目流程
 一、获取cmn的中英文数据结构化处理
 二、搭建Seq2seq
