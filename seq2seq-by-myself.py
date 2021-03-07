@@ -8,6 +8,7 @@ import numpy as np
 import os
 import random
 import time
+from urlparse import urlparse
 # 数据预处理
 def read_data(config):
     with open(config.data_address, 'r', encoding='utf-8') as f:
